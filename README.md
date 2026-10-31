@@ -48,6 +48,8 @@ Blocks rise into view as you scroll. Without JavaScript, everything is visible a
 
 **Sample content.** The therapists, reviews, prices, address, phone number and email are examples. Replace them with your own before launch, and only publish reviews from real clients who agreed to it.
 
+The "Powered by Formgong" links point to `https://formgong.com/review-page/fk_your_access_key`, so the same find and replace covers them. Once your key is in, the first click from your published site makes your own public review page on Formgong, where clients read and leave reviews, and every later click opens it. Switch the page off in Formgong (Reviews → your site → Settings) or change those links.
+
 ## Українська
 
 Яскравий односторінковий сайт для практики психотерапії чи консультування: один `index.html` і папка `img/`. Практика Fernlow Therapy, чотири терапевти, відгуки, ціни, адреса й телефон вигадані, це зразок вмісту.
@@ -79,3 +81,5 @@ Blocks rise into view as you scroll. Without JavaScript, everything is visible a
 **Зразок вмісту.** Терапевти, відгуки, ціни, адреса, телефон і email вигадані. Замініть їх своїми перед запуском і публікуйте лише відгуки реальних клієнтів, які на це погодилися.
 
 MIT license.
+
+Посилання «Powered by Formgong» ведуть на `https://formgong.com/review-page/fk_your_access_key`, тож та сама заміна ключа оновить і їх. Коли ключ стоїть, перший перехід з вашого опублікованого сайту створює вашу публічну сторінку відгуків на Formgong, де клієнти читають і залишають відгуки; далі посилання відкриває її. Вимкнути сторінку можна у Formgong (Відгуки → ваш сайт → Налаштування) або змінити ці посилання.
